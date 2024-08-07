@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Mussa</h1>
 <h3 align="center">Junior Data Scientist from Portugal/Mozambique.</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently a **Freelancer Data Scientist and Teacher**
 
 - 📫 How to reach me **danilosmussa@gamil.com**
 
